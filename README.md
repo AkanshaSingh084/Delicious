@@ -19,16 +19,6 @@
     → in the Admincontroller.java & userController.java files having a mapping based function which returns file name.<br>
     → in Src->main->webapp->views  following Jsp file will be executing.
 
-## log in 
-ADMIN Module (http://localhost:8080/admin) 
--  user name:- admin
--  password :- 123
--  Note(above default username and password , it can be change in the database)
-
-  User module
--  user name:- jay 
--  password:- 123
-
 
 ## preview
 ![img](https://github.com/jaygajera17/E-commerce_website-in-java/blob/main/JtProject/src/main/resources/Product%20Images/Screenshot%202022-04-11%20111601.jpg)
